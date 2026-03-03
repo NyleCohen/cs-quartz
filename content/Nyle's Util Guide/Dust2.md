@@ -31,15 +31,12 @@ Bank behind the wall so you don’t flash your team
 # CT Side
 ### Suicide Smoke from Spawn
 ![[Counter-Strike 2 - 2026-03-02 2-32-55 PM.mp4]]
-
 ### Top Mid (Elbow) Smoke from Spawn
 Same position as Suicide Smoke
 ![[Counter-Strike 2 - 2026-03-02 2-34-19 PM.mp4]]
-
 ### Catwalk Giant smoke from Short Stairs
 ![[Counter-Strike 2 - 2026-03-02 2-42-06 PM.mp4]]
 ![[Pasted image 20260302144318.png]]
-
 ### Mid Flash from Short Stairs
 ![[Counter-Strike 2 - 2026-03-02 2-45-16 PM.mp4]]
 ### B Site Flash from Big Box
