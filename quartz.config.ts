@@ -8,8 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
-    pageTitleSuffix: "",
+    pageTitle: "0161 Sunday League Strats and Guides",
+    pageTitleSuffix: "0161",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -29,26 +29,27 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#fbf1c7",        // bg0
+          lightgray: "#ebdbb2",    // bg1
+          gray: "#bdae93",         // bg3
+          darkgray: "#665c54",     // fg2
+          dark: "#3c3836",         // fg1
+          secondary: "#d79921",    // yellow
+          tertiary: "#458588",     // blue
+          highlight: "rgba(215, 153, 33, 0.15)", // yellow soft highlight
+          textHighlight: "#fabd2f66", // bright yellow highlight
         },
+
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#282828",        // bg0
+          lightgray: "#3c3836",    // bg1
+          gray: "#665c54",         // bg3
+          darkgray: "#ebdbb2",     // fg2
+          dark: "#fbf1c7",         // fg1
+          secondary: "#fabd2f",    // bright yellow
+          tertiary: "#83a598",     // aqua
+          highlight: "rgba(250, 189, 47, 0.15)",
+          textHighlight: "#fabd2f88",
         },
       },
     },
@@ -82,7 +83,7 @@ const config: QuartzConfig = {
       Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,
-        enableRSS: true,
+        enableRSS: false,
       }),
       Plugin.Assets(),
       Plugin.Static(),
