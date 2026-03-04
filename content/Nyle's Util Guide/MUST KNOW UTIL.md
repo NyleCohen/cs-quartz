@@ -17,6 +17,7 @@ No need to memorise all of these but take a look at each video and learn a coupl
 # Mirage
 [[Mirage#Window Smoke from Spawn]]
 [[Mirage#Con Smoke from Spawn]]
+[[Mirage#Bench Molly from Apartments]]
 # Nuke
 [[Nuke#All Outside Smokes]]
 [[Nuke#B Single Door Pop Flash]]
